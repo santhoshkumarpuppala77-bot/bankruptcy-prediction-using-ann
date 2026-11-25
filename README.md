@@ -162,13 +162,13 @@ American-Bankruptcy-Prediction/
 ### 1. Clone the Repository
 
 ```bash
-git clone <your-github-repository-url>
+[git clone <your-github-repository-url>](https://github.com/santhoshkumarpuppala77-bot/bankruptcy-prediction-using-ann)
 ```
 
 ### 2. Navigate to the Project Folder
 
 ```bash
-cd American-Bankruptcy-Prediction
+cd bankruptcy-Prediction
 ```
 
 ### 3. Install Dependencies
@@ -180,7 +180,7 @@ pip install -r requirements.txt
 ### 4. Run the Streamlit Application
 
 ```bash
-streamlit run app.py
+streamlit run bank2.py
 ```
 
 ## 🔮 Future Improvements
